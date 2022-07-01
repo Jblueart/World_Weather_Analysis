@@ -8,3 +8,9 @@ Collecting, analyzing, & vizualizing the data.
 
 json extracting data from api
 json array
+
+
+Created a travel itenerary based on ideallic weather conditions. Visiting Japan to stay at the Tateyama Seaside Hotel. 
+
+Learned how to extract information from an API feed. Configured both google maps and a weather api. 
+Created Heatmaps. 
